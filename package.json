@@ -12,10 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "forever": "^4.0.1",
-    "koa": "^2.7.0",
-    "koa-body": "^4.1.0",
+    "koa": "^2.13.1",
+    "koa-body": "^4.2.0",
     "koa-router": "^7.4.0",
-    "koa2-cors": "^2.0.6",
+    "@koa/cors": "^3.1.0",
     "uuid": "^8.3.2"
   }
 }

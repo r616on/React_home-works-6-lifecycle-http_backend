@@ -1,7 +1,7 @@
 const http = require("http");
 const Koa = require("koa");
 const Router = require("koa-router");
-const cors = require("koa2-cors");
+const cors = require("@koa/cors");
 const koaBody = require("koa-body");
 const { v4: uuidv4 } = require("uuid");
 
